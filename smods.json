@@ -1,0 +1,19 @@
+{
+    "id": "locksmith",
+    "prefix": "lcksm",
+	"priority": 1,
+    "main_file": "Main.lua",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1814a)"
+    ],
+    
+    "name": "Locksmith",
+    "no_marquee": true,
+    "author": ["BitterDoes"],
+    "description": "'Is there any mods to add stickers?' there is now i guess",
+    "badge_colour": "3b312e",
+    "badge_text_colour": "e85e3f",
+    "icon_path": "modicon.png",
+    "version": "0.0.0"
+
+}
